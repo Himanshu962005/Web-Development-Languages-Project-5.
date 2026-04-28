@@ -26,7 +26,7 @@
 ### 📌 Purpose
 **This project was created for learning and improving frontend development skills by building a real-world clone project with strong focus on layout structure, responsive design, and professional UI implementation.**
 
-### 2.Project - Amazon Clone. 🛒 | HTML & CSS Only.
+## 2.Project - Amazon Clone. 🛒 | HTML & CSS Only.
 
 **A modern and fully responsive Amazon Landing Page Clone built using pure HTML5 and CSS3 without JavaScript 🚀. This project recreates the professional UI of the official Amazon homepage, focusing on clean layout design, responsive sections, navigation structure, product showcase cards, hero banners, and polished styling 🎯.**
 
