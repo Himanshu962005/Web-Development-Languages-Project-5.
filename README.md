@@ -35,21 +35,21 @@
 **This clone helps strengthen core frontend development skills by practicing real-world e-commerce UI design and pixel-perfect layout building using only HTML and CSS 🎨. Perfect for beginners and frontend developers who want to improve their styling and responsive web design skills 💡.**
 
 ### 🚀 Features
-✅ Fully Responsive Design.
-✅ Modern Amazon Inspired UI.
-✅ Navigation Bar with Search Section 🔍.
-✅ Delivery Location Section 📍.
-✅ Account, Orders & Cart Section 🛒.
-✅ Hero Banner Section 🖼️.
-✅ Product Category Shopping Cards 📦.
-✅ Shopping Grid Layout using Flexbox 🏪.
-✅ Multi-Section Professional Footer 📄.
-✅ Hover Effects and Smooth UI Experience ✨.
-✅ Mobile Friendly Layout Structure 📱.
+* ✅ Fully Responsive Design.
+* ✅ Modern Amazon Inspired UI.
+* ✅ Navigation Bar with Search Section 🔍.
+* ✅ Delivery Location Section 📍.
+* ✅ Account, Orders & Cart Section 🛒.
+* ✅ Hero Banner Section 🖼️.
+* ✅ Product Category Shopping Cards 📦.
+* ✅ Shopping Grid Layout using Flexbox 🏪.
+* ✅ Multi-Section Professional Footer 📄.
+* ✅ Hover Effects and Smooth UI Experience ✨.
+* ✅ Mobile Friendly Layout Structure 📱.
 
 ### 🛠️ Tech Stack
-🔸 HTML5.
-🔸 CSS3.
+* 🔸 HTML5.
+* 🔸 CSS3.
 
 ### 📌 Purpose
 **This project was created for learning and improving frontend development skills by building a real-world clone project with strong focus on layout structure, responsive design, and professional e-commerce UI implementation 🚀🔥.**
