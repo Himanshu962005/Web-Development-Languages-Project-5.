@@ -1,5 +1,5 @@
 # Web-Development-Languages-Project-5.
-# 1.Project - Netflix Clone. 🎬 | HTML & CSS Only.
+# 1. Project - Netflix Clone. 🎬 | HTML & CSS Only.
 **A modern and fully responsive **Netflix Landing Page Clone** built using pure **HTML5** and **CSS3** without JavaScript. This project recreates the elegant UI of the official Netflix homepage, focusing on clean layout design, responsive sections, hero banners, FAQ cards, video background sections, and professional styling.**
 
 **The project includes a premium landing page experience with a hero section, navigation bar, email subscription area, feature showcase sections, FAQ section, and structured footer design. Advanced CSS concepts like Flexbox, Grid, positioning, overlays, hover effects, media queries, and responsive design techniques are used to create a polished front-end experience.**
